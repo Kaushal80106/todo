@@ -2,6 +2,8 @@
 
 A lightweight, responsive Todo application built with **React 18**, **Vite**, and **Tailwind CSS**. It uses the **React Context API** for global state management and **Browser LocalStorage** for persistent data storage across browser sessions.
 
+🌐 **Live Demo**: [https://todo-six-ochre.vercel.app/](https://todo-six-ochre.vercel.app/)
+
 ---
 
 ## ✨ Features
